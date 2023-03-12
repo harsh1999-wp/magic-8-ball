@@ -17,8 +17,10 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-
   uses-material-design: true
-
   assets:
-    - images/
+    - android/images/ball1.png
+    - android/images/ball2.png
+    - android/images/ball3.png
+    - android/images/ball4.png
+    - android/images/ball5.png
